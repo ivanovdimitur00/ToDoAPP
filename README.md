@@ -31,11 +31,6 @@ Short, brief description.
 <br/>
 <br/>
 
-## Algorithm explanation
-This is an optional section. Either explain here how the algorithm works or place an external link. 
-<br/>
-<br/>
-
 ## Key features and functionalities
 * Key feature 1;
 * Function 1; <br/>
