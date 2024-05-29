@@ -1,5 +1,5 @@
 # ToDoAPP
-A mobile app for android to take quick notes and craft a to-do list using Kotlin and the jetpack compose UI framework.
+A mobile app for android to take quick notes and craft a to-do list using Kotlin, the jetpack compose UI framework and gradle build system.
 <br/>
 <br/>
 
@@ -24,7 +24,7 @@ Completed and working. no new features expected.
 
 ## Description
 The purpose and goal of the project is to create a mobile app for taking notes.
-As an additional goal, the project taught me how to use android studio and deploy the project on an emulated phone, as well as how to use jetpack compose.
+As an additional goal, the project taught me how to use android studio and deploy the project on an emulated phone with the gradle build system, as well as how to use jetpack compose.
 
 The intended audience was the assistant for my mobile technologies class as well as myself.
 <br/>
@@ -39,8 +39,10 @@ The intended audience was the assistant for my mobile technologies class as well
 <br/>
 
 ## Structutre
-* Describe how the project files are arranged and what they mean;
-  * Use bullet points and short sentences;
+* `build.gradle.kts` - top-level config file;
+* `settings gradle.kts` - config file for repositories and project;
+* `gradle`:
+ *  
 <br/>
 
 ## Installation instructions
