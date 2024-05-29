@@ -41,8 +41,16 @@ The intended audience was the assistant for my mobile technologies class as well
 ## Structutre
 * `build.gradle.kts` - top-level config file;
 * `settings gradle.kts` - config file for repositories and project;
-* `gradle`:
- *  
+* `app`- contains the source files;
+  * `app/build.gradle.kts` - specifies plugins and dependencies used and android configuration;
+  * `app/src/main`:
+    * `app/src/main/res`:
+      * `app/src/main/res/font` - contains the font the app uses;
+      * `app/src/main/res/values` - contains the file that specifies the colors in use;
+    * `app/src/main/java/com.example/todoapp`: - contains the important source files (for my sake, I won't specify the full path when listing the rest of the files);
+      * `MainActivity.kt` - used to launch the app upon initialization;
+      * `KoinApp.kt` - builds/calls the database;
+      * `database` -  
 <br/>
 
 ## Installation instructions
