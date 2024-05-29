@@ -1,5 +1,5 @@
 # ToDoAPP
-Description of project.
+A mobile app for android to take quick notes and craft a to-do list using Kotlin and the jetpack compose UI framework.
 <br/>
 <br/>
 
@@ -18,23 +18,24 @@ Description of project.
 <br/>
 
 ## Project status
-Describe project status.
+Completed and working. no new features expected.
 <br/>
 <br/>
 
 ## Description
-Describe the purpose / goal of the project.
+The purpose and goal of the project is to create a mobile app for taking notes.
+As an additional goal, the project taught me how to use android studio and deploy the project on an emulated phone, as well as how to use jetpack compose.
 
-Describe the intended audiences.
-
-Short, brief description.
+The intended audience was the assistant for my mobile technologies class as well as myself.
 <br/>
 <br/>
 
 ## Key features and functionalities
-* Key feature 1;
-* Function 1; <br/>
-you can also section it with sentences - explanations.
+* Scrollable To-do list;
+* Add notes with a button. This includes title and text;
+* Mark notes as un/finished;
+* Edit notes;
+* Delete notes.
 <br/>
 
 ## Structutre
