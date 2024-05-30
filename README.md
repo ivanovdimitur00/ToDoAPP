@@ -130,8 +130,13 @@ Kapt dependency:
 <br/>
 
 ## Usage examples
-1. Make a tutorial on how the project can be used;
-2. Use numbered lists;
+This example takes place after the app's successful compilation and deployment.
+1. When opening the app, you are greeted with an empty to-do list;
+2. To create a new note, you have to press the button in the bottom right;
+3. A menu appears prompting you to input a title and a sub-title;
+4. After the user gives their input, a new note is created;
+5. The user can press anywhere on the note to mark it as un/finished. A colour change indicates the state of the note;
+6. The user can edit or delete the note. 
 <br>
 
 ## API references
